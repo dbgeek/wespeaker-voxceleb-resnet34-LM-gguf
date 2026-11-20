@@ -15,7 +15,7 @@ The speaker embedding model [a2t](https://github.com/dbgeek/a2t) loads to name k
 
 WeSpeaker ResNet34-LM by the WeSpeaker project (https://github.com/wenet-e2e/wespeaker), CC-BY-4.0; converted to GGUF by a2t.
 
-- **Licence**: `cc-by-4.0`, the licence of the original weights. This file is a conversion of them and is under the same licence.
+- **Licence**: [`cc-by-4.0`](https://creativecommons.org/licenses/by/4.0/), the licence of the original weights. This file is a conversion of them and is under the same licence.
 - **Converted by**: a2t ([dbgeek/a2t](https://github.com/dbgeek/a2t)). The WeSpeaker project did not make or endorse this file.
 
 ## Origin
